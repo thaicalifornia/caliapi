@@ -2,8 +2,9 @@
   "name": "cali",
   "version": "1.0.0",
   "description": "node api",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "dev": "nodemon app.js"
   },
   "keywords": [
